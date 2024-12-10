@@ -1,0 +1,38 @@
+/* Highlight animation that changes the background color */
+.wordHighlight {
+    animation: highlightBackground 2s infinite;
+    padding: 2px 4px;
+    border-radius: 4px;
+  }
+  
+  /* Highlight animation that changes the text shadow */
+  .wordShadow {
+    animation: highlightShadow 2s infinite;
+  }
+  
+  /* Background highlight animation */
+  @keyframes highlightBackground {
+    0% {
+      background-color: transparent;
+    }
+    50% {
+      background-color: #fce7f3;
+    }
+    100% {
+      background-color: transparent;
+    }
+  }
+  
+  /* Text shadow highlight animation */
+  @keyframes highlightShadow {
+    0% {
+      text-shadow: none;
+    }
+    50% {
+      text-shadow: 0px 0px 10px #fce7f3;
+    }
+    100% {
+      text-shadow: none;
+    }
+  }
+  
