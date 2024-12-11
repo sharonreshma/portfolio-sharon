@@ -46,7 +46,7 @@ const ProjectPage = () => {
        {/* Projects Section */}
        <section id="projects" style={styles.projects}>
         <h3 style={styles.sectionHeading}>Projects</h3>
-        <p>Few of my top featured projects are:</p>
+        <p>A showcase of my standout projects</p>
         {/* Add project details here */}
       </section>
       <div style={styles.tabContainer}>

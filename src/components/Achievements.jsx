@@ -12,7 +12,7 @@ import image10 from '../assets/t.jpeg';
 // Define styles first to avoid access issues
 const styles = {
   container: {
-    marginTop: '50px',
+    marginTop: '70px',
     fontFamily: 'Arial, sans-serif',
     maxWidth: '800px',
     margin: '20px auto',
@@ -217,6 +217,7 @@ const achievements = {
 };
 
 const Achievements = () => {
+  
   const [activeTab, setActiveTab] = useState('technical');
 
   const renderAchievements = (category) => {
@@ -242,7 +243,13 @@ const Achievements = () => {
   };
 
   return (
+    
     <div style={styles.container}>
+      <section id="projects" style={styles.projects}>
+        <h3 style={styles.sectionHeading}>Achievements</h3>
+        <p>My top “I did it!” moments</p>
+        {/* Add project details here */}
+      </section>
       <div style={styles.tabs}>
         <button
           style={{
