@@ -119,6 +119,10 @@ const SkillsPage = () => {
 
   return (
     <div style={styles.container}>
+       
+     <section id="skills" >
+       
+      </section>
       <h6 style={styles.header}>SKILLS</h6>
 
       <div style={styles.skillSection}>

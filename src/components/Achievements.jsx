@@ -245,7 +245,7 @@ const Achievements = () => {
   return (
     
     <div style={styles.container}>
-      <section id="projects" style={styles.projects}>
+      <section id="achievements" style={styles.projects}>
         <h3 style={styles.sectionHeading}>Achievements</h3>
         <p>My top “I did it!” moments</p>
         {/* Add project details here */}

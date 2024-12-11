@@ -28,6 +28,10 @@ const ContactPage = () => {
 
   return (
     <div className="contact-page">
+     
+     <section id="contact">
+       
+      </section>
       <h2 className="section-title">Get in Touch</h2>
       <p>Feel free to reach out if you'd like to collaborate or discuss a project!</p>
       <div className="contact-container">

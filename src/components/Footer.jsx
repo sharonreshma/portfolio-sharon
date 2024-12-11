@@ -6,9 +6,10 @@ const Footer = () => {
     <footer style={styles.footer}>
       <div style={styles.footerContent}>
         <div style={styles.footerLinks}>
-          <a href="#about" style={styles.footerLink}>About</a>
+          <a href="#homepage" style={styles.footerLink}>About</a>
           <a href="#projects" style={styles.footerLink}>Projects</a>
           <a href="#skills" style={styles.footerLink}>Skills</a>
+          <a href="#achievements" style={styles.footerLink}>Achievements</a>
           <a href="#contact" style={styles.footerLink}>Contact</a>
         </div>
         <div style={styles.socialLinks}>
