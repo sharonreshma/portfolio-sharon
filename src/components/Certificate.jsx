@@ -74,24 +74,24 @@ const certifications = [
     description: 'Completed the Python Programming course at Ludifu, gaining a solid foundation in Python syntax, data structures, and algorithms, and applying Python to solve real-world programming problems.',
     certificateLink: 'https://www.linkedin.com/posts/sharon-reshma-bb9930256_python-datascience-techjourney-activity-7212725264705835008-4MN_/?utm_source=share&utm_medium=member_android',
   },
-  {
-    title: 'Introduction to C programming (Coursera))',
-    date: '13th July 2023',
-    description: 'Completed Introduction to C Programming on Coursera, gaining foundational knowledge in C, covering concepts like variables, control structures, arrays, and functions to build efficient and optimized programs ',
-    certificateLink: 'https://drive.google.com/file/d/10WuBKfnKAHR9dB1Rn3tzK_rdWwNNFGps/view',
-  },
-  {
-    title: 'Accenture Project Management Job Simulation',
-    date: '26th Feb 2024',
-    description: 'Completed Accenture Project Management Job Simulation, mastering key project management concepts, stakeholder communication, and task prioritization.',
-    certificateLink: 'https://drive.google.com/file/d/11JX6IwpQZSmrKrlHKBOxQDY1VYLtHyOp/view',
-  },
-  {
-    title: 'Computer Vision (Infosys)',
-    date: '27th May 2024',
-    description: 'Completed Infosys Computer Vision Program, gaining hands-on experience with image processing and machine learning techniques for real-world applications',
-    certificateLink: 'https://drive.google.com/file/d/11GJKdjbrrPB0wRBRthIwGy1Ji1P22_uQ/view',
-  },
+  // {
+  //   title: 'Introduction to C programming (Coursera))',
+  //   date: '13th July 2023',
+  //   description: 'Completed Introduction to C Programming on Coursera, gaining foundational knowledge in C, covering concepts like variables, control structures, arrays, and functions to build efficient and optimized programs ',
+  //   certificateLink: 'https://drive.google.com/file/d/10WuBKfnKAHR9dB1Rn3tzK_rdWwNNFGps/view',
+  // },
+  // {
+  //   title: 'Accenture Project Management Job Simulation',
+  //   date: '26th Feb 2024',
+  //   description: 'Completed Accenture Project Management Job Simulation, mastering key project management concepts, stakeholder communication, and task prioritization.',
+  //   certificateLink: 'https://drive.google.com/file/d/11JX6IwpQZSmrKrlHKBOxQDY1VYLtHyOp/view',
+  // },
+  // {
+  //   title: 'Computer Vision (Infosys)',
+  //   date: '27th May 2024',
+  //   description: 'Completed Infosys Computer Vision Program, gaining hands-on experience with image processing and machine learning techniques for real-world applications',
+  //   certificateLink: 'https://drive.google.com/file/d/11GJKdjbrrPB0wRBRthIwGy1Ji1P22_uQ/view',
+  // },
   {
     title: 'Data Anlytics using Microsoft Excel',
     date: 'October 2022',
@@ -110,42 +110,42 @@ const certifications = [
     description: 'Participated in AWS Summit India 2024, gaining insights into cloud innovations, architecture best practices, and industry-leading AWS solutions. ',
     certificateLink: 'https://drive.google.com/file/d/115MV3JOtPVYZ9ny1Qgqvk6LksIsMIyjB/view',
   },
-  {
-    title: 'Linux: Process and System Resource DevOps Management (Coursera)',
-    date: '13th July 2023',
-    description: 'Completed the Linux: Process and System Resource DevOps Management course on Coursera, learning how to manage processes, monitor system resources, and optimize Linux environments for DevOps workflows ',
-    certificateLink: 'https://drive.google.com/file/d/10j39ag8Gq12DO3rafSa7Q03n8B7Qedjh/view',
-  },
+  // {
+  //   title: 'Linux: Process and System Resource DevOps Management (Coursera)',
+  //   date: '13th July 2023',
+  //   description: 'Completed the Linux: Process and System Resource DevOps Management course on Coursera, learning how to manage processes, monitor system resources, and optimize Linux environments for DevOps workflows ',
+  //   certificateLink: 'https://drive.google.com/file/d/10j39ag8Gq12DO3rafSa7Q03n8B7Qedjh/view',
+  // },
   {
     title: 'Operation Job Simulation(Golsman Sachs)',
     date: '8th Dec 2024',
     description: 'Completed the Operation Job Simulation by Goldman Sachs, enhancing skills in financial operations, problem-solving, and real-world business scenarios',
     certificateLink: 'https://drive.google.com/file/d/113Twa31jfzIMWxYgPQOelEjsJT4rKBYC/view',
   },
-  {
-    title: 'How Computer Works (University of London)',
-    date: '14th April 2023',
-    description: 'Completed How Computer Works by the University of London, gaining foundational knowledge in computer systems, hardware, and software integration',
-    certificateLink: 'https://drive.google.com/file/d/11-KICNne1gRvqEH8e7RU6ualwuJy2Lcb/view',
-  },
-  {
-    title: 'Get started with citizen Developer Journey (UiPath)',
-    date: '26th Jan 2023',
-    description: '',
-    certificateLink: 'https://drive.google.com/file/d/11VahvlQNvxMnq-qwBeMhijAaOfjJTw5v/view',
-  },
-  {
-    title: 'Build PowerBI Visuals and Reports',
-    date: '26th May 2024',
-    description: 'Gained certification in Building Power BI Visuals and Reports, demonstrating proficiency in creating interactive data visualizations and insightful reports using Power BI',
-    certificateLink: 'https://drive.google.com/file/d/11fBbvg_4tAch04ZHNpVcSgE3EJaR4aFC/view',
-  },
-  {
-    title: 'Microsoft Azure AI Fundamentals: Natural Language',
-    date: '19th June 2024',
-    description: 'Obtained Microsoft Azure AI Fundamentals: Natural Language certification showcasing foundational knowledge in natural language processing and AI capabilities within Microsoft Azure.',
-    certificateLink: 'https://drive.google.com/file/d/11e8azh6kOw7JWdJeOmZABOgqI0hfb5bf/view',
-  },
+  // {
+  //   title: 'How Computer Works (University of London)',
+  //   date: '14th April 2023',
+  //   description: 'Completed How Computer Works by the University of London, gaining foundational knowledge in computer systems, hardware, and software integration',
+  //   certificateLink: 'https://drive.google.com/file/d/11-KICNne1gRvqEH8e7RU6ualwuJy2Lcb/view',
+  // },
+  // {
+  //   title: 'Get started with citizen Developer Journey (UiPath)',
+  //   date: '26th Jan 2023',
+  //   description: '',
+  //   certificateLink: 'https://drive.google.com/file/d/11VahvlQNvxMnq-qwBeMhijAaOfjJTw5v/view',
+  // },
+  // {
+  //   title: 'Build PowerBI Visuals and Reports',
+  //   date: '26th May 2024',
+  //   description: 'Gained certification in Building Power BI Visuals and Reports, demonstrating proficiency in creating interactive data visualizations and insightful reports using Power BI',
+  //   certificateLink: 'https://drive.google.com/file/d/11fBbvg_4tAch04ZHNpVcSgE3EJaR4aFC/view',
+  // },
+  // {
+  //   title: 'Microsoft Azure AI Fundamentals: Natural Language',
+  //   date: '19th June 2024',
+  //   description: 'Obtained Microsoft Azure AI Fundamentals: Natural Language certification showcasing foundational knowledge in natural language processing and AI capabilities within Microsoft Azure.',
+  //   certificateLink: 'https://drive.google.com/file/d/11e8azh6kOw7JWdJeOmZABOgqI0hfb5bf/view',
+  // },
   
 ];
 
