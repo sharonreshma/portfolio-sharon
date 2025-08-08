@@ -82,6 +82,15 @@ const styles = {
 
 const internships = [
   {
+    company: 'Accenture',
+    role: 'Packaged App Development Associate Intern',
+    duration: 'May 2024 - July 2024',
+    description: 'PADA Intern at Accenture with hands-on experience in Salesforce development and CRM solutions.',
+    style: styles.blueCard,
+    certificateLink: 'https://drive.google.com/file/d/1gpfDRm6d2gnCc-ZBu_pwiRUii_s1wBXd/view?usp=drivesdk',
+    projectLink: 'https://drive.google.com/file/d/1gpfDRm6d2gnCc-ZBu_pwiRUii_s1wBXd/view?usp=drivesdk',
+  },
+  {
     company: 'Duratech Solutions',
     role: 'NLP Developer Intern',
     duration: 'June 2024 - July 2024',
