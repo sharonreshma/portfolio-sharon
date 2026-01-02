@@ -18,7 +18,7 @@ const Homepage = () => {
   return (
     <Router>
       <div style={styles.container}>
-        {/* Header Section */}
+    
         <section id="homepage"></section>
         <header style={styles.header}>
           <h1 style={styles.name}>Sharon Reshma Arulprakash</h1>
@@ -61,21 +61,22 @@ const Homepage = () => {
           </nav>
         </header>
 
-        {/* Hero Section */}
+      
         <section id="hero" style={styles.hero}>
           <div style={styles.textContainer}>
             <h2 style={styles.heading}>
-              Hello there! I'm Sharon, a <span style={styles.highlight}>Full-Stack Web Developer</span> !!
+              Hiii there! I'm Sharon, a <span style={styles.highlight}>Techie and Coffee Lover</span> !!
             </h2>
             <p style={styles.paragraph}>
-              I am an <span style={styles.highlightPink}>innovation aficionado</span> who enjoys exploring the wonders of <span style={styles.highlightBlue}>AI</span> and diving deep into the realms of <span style={styles.highlightYellow}>Data Science</span>.
+              To start of with, I am a huge <span style={styles.highlightPink}>innovation aficionado</span>, be it hackathon or code sprint you can find me there. I enjoy exploring the wonders of <span style={styles.highlightBlue}>technology.</span> A curious mind with the passion to bring  <span style={styles.highlightYellow}> imagination to life</span> all with help of Technology.
             </p>
             <p style={styles.paragraph}>
               Currently an <span style={styles.highlightBlue}>Information Technology (IT)</span> student at <span style={styles.highlightPink}>SKCT</span>, and I've been absolutely loving every twist and turn of my coding journey so far.
             </p>
             <p style={styles.paragraph}>
-              Through these experiences, I developed a working style that leans towards <span style={styles.highlightYellow}>flexibility</span>, <span style={styles.highlightPink}>clarity</span>, and <span style={styles.highlightBlue}>collaboration</span>.
+            So yup, I enjoy <span style={styles.highlightYellow}>exploring technology with curiosity</span>,<span style={styles.highlightPink}>learning through experience</span>, and <span style={styles.highlightBlue}>having fun building things that matter.</span>.
             </p>
+            <p><span style={styles.highlight}>CONNECT</span> + <span style={styles.highlight}>CODE</span> + <span style={styles.highlight}>COFFEE</span></p>
 
             <div style={styles.buttonContainer}>
               <a
@@ -103,7 +104,7 @@ const Homepage = () => {
           />
         </section>
 
-        {/* Sections for Scroll */}
+  
         
 
         
@@ -184,6 +185,9 @@ const styles = {
     display: 'flex',
     gap: '10px',
     marginTop: '20px',
+  justifyContent: 'center', 
+
+
   },
   linkButton: {
     padding: '10px 20px',

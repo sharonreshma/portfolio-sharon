@@ -126,7 +126,7 @@ const achievements = {
       description: (
         <span>
         {' '}
-          <span style={styles.highlightPink}>Runner Up at IDEATHON 2023 held at SKCT,</span> I leveraged cutting-edge technologies such as <span style={styles.highlightBlue}>real-time tracking, IoT, and 3D modeling</span> to create a system that helps monitor and <span style={styles.highlightYellow}>prevent child trafficking</span> activities along with my team. This experience reinforced my passion for creating<span style={styles.highlightPink}>socially impactful innovations</span>, and reaffirmed my commitment to using technology for the greater good.
+          <span style={styles.highlightPink}>Runner Up at IDEATHON 2023 held at SKCT,</span> I leveraged various technologies such as <span style={styles.highlightBlue}>real-time tracking, IoT, and 3D modeling</span> to create a system that helps monitor and <span style={styles.highlightYellow}>prevent child trafficking</span> activities along with my team. This experience reinforced my passion for creating and innovation<span style={styles.highlightPink}>socially impactful innovations</span>, and reaffirmed my commitment to using technology for the greater good.
         </span>
       ),
       link: 'https://www.linkedin.com/posts/sharon-reshma-bb9930256_ideathon2023-skct-runnerup-activity-7213436032954904576-r_o0/?utm_source=share&utm_medium=member_android',
